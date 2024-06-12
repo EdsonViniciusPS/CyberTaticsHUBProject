@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d0199c11aa6f514784c5c69cd8378d8, type: 3}
+  m_Name: PlayFabEditorPrefsSO
+  m_EditorClassIdentifier: 
+  DevAccountEmail: fallmate.web3@outlook.com
+  DevAccountToken: 37ojei1onue6x4up8ajookyr1wshxy77pmhs18du8zfjtaezbr8h1e1bzc7qin1fc9mjojimtbpu3aboyach7rtn4x9a63ryfw5fhupizy6mj4qf376eubod433gk7igcsu6ezzhdacnyyy7s6z1ys11jrrkzc9gu7kbmi3zzwkyyxqq4rpq5e53rpgtdhpqtm4twy5b
+  AadAuthorization: 
+  SelectedStudio: Lunae
+  SdkPath: Assets/PlayFabSDK
+  EdExPath: 
+  LocalCloudScriptPath: 
+  PanelIsShown: 0
+  curMainMenuIdx: 0
+  curSubMenuIdx: 0
